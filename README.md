@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and photography. 
   I am creative and ambitious, I learn quickly.
 - 🌱 I’m familiar in 90% with HTML, CSS, WordPress
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and UX
 - 🌱 I love to traveling and taking photos, hiking in the mountains
  
 - 📫 Feel free to contact me wiolip@gmail.com
