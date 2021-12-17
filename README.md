@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wioleta. 
 - 👀 I’m interested in coding and photography. 
   I am creative and ambitious, I learn quickly.
-- 🌱 I’m familiar in 75% with HTML, CSS, 
+- 🌱 I’m familiar in 75% with HTML, CSS, Saas, Bootstrap
 - has been working with Wordpress for 2 years
 - 🌱 I’m currently learning JavaScript and UX
 - 🌱 I love to traveling and taking photos, hiking in the mountains
