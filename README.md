@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript and UX
 - 🌱 I love to traveling and taking photos, hiking in the mountains
  
-- 📫 Feel free to contact me wiolip@gmail.com
+- 📫 Feel free to contact me hello@wiolipcreates.pl
 
 <!---
 Wiolip/Wiolip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
