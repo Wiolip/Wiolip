@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Wioleta. 
-- 👀 I’m interested in coding and photography. 
-  I am creative and ambitious, I learn quickly.
-- 🌱 I’m familiar with HTML, CSS, Sass, Bootstrap, Wordpress, basic PHP
-- has been working with Wordpress for 2 years
-- 🌱 I’m currently learning JavaScript and UX
-- 🌱 I love to traveling and taking photos, hiking in the mountains
+-  I’m interested in coding and photography. 
+-  I'm creative and ambitious, I learn fast.
+-  I’m familiar with HTML5, CSS3, Sass, BEM, Bootstrap, Wordpress, basic PHP
+-  I’m currently learning JS and UX
+-  I love to traveling and taking photos, hiking in the mountains
  
 - 📫 Feel free to contact me hello@wiolipcreates.pl
 
